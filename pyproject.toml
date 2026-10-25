@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Official Python client for FET112 verifiable security intelligence"
 readme = "README.md"
 requires-python = ">=3.10"
-license = {text = "MIT"}
+license = "MIT"
 authors = [
   {name = "FET112"}
 ]
@@ -22,6 +22,7 @@ classifiers = [
   "Programming Language :: Python :: 3.11",
   "Programming Language :: Python :: 3.12",
   "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
   "Topic :: Security",
   "Topic :: Software Development :: Libraries :: Python Modules",
 ]
@@ -29,6 +30,8 @@ classifiers = [
 [project.urls]
 Homepage = "https://www.fet112.com"
 Documentation = "https://www.fet112.com/developers"
+Repository = "https://github.com/jirisarri10/fet112-python"
+Issues = "https://github.com/jirisarri10/fet112-python/issues"
 
 [project.scripts]
 fet112 = "fet112.cli:main"

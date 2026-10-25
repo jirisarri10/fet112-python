@@ -1,4 +1,5 @@
 # FET112 Python SDK
+![PyPI Version](https://img.shields.io/pypi/v/fet112?style=flat-square) ![PyPI Downloads](https://img.shields.io/pypi/dm/fet112?style=flat-square) ![Python Version](https://img.shields.io/pypi/pyversions/fet112?style=flat-square) ![License](https://img.shields.io/pypi/l/fet112?style=flat-square)
 
 **Check the monitored security environment before your agent acts.**
 
